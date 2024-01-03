@@ -4,11 +4,11 @@ A simple Java GUI application that implements a login & logout system with a das
 
 ## Features
 
-**Login Interface**: Enter your credentials (username: user, password: pass) for authentication.
-**Success Mesaage**: Upon successful login, a success message is displayed.
-**Error Message**: Appropriate error message for invalid credentials.
-**Dashboard Interface**: Redirect to a dashboard with relevant information.
-**Logout Functionality**: Logout button redirects back to the login interface.
+- **Login Interface**: Enter your credentials (username: user, password: pass) for authentication.
+- **Success Mesaage**: Upon successful login, a success message is displayed.
+- **Error Message**: Appropriate error message for invalid credentials.
+- **Dashboard Interface**: Redirect to a dashboard with relevant information.
+- **Logout Functionality**: Logout button redirects back to the login interface.
 
 ## How To Use
 
