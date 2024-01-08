@@ -13,12 +13,13 @@ A simple Java GUI application that implements a login & logout system with a das
 ## How To Use
 
 1. Clone the repository to your local machine.
+   ```bash
    git clone https://github.com/H3nryK/Deaktop-login-logout-GUI.git
-2. Open the project in your preferred Java IDE. i.e., NetBeans, Eclipse.
-3. Run the application and the login interface will appear.
-4. Enter the default credentials (username: user, password: pass) to log in.
-5. On successful login, a success message will be displayed. Clicking "OK" redirects you to the dashboard.
-6. The dashboard interface contains a logout button, click the "Logout" button to return to the login interface.
+3. Open the project in your preferred Java IDE. i.e., NetBeans, Eclipse.
+4. Run the application and the login interface will appear.
+5. Enter the default credentials (username: user, password: pass) to log in.
+6. On successful login, a success message will be displayed. Clicking "OK" redirects you to the dashboard.
+7. The dashboard interface contains a logout button, click the "Logout" button to return to the login interface.
 
 ## Dependencies
 
