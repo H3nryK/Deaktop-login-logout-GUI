@@ -23,7 +23,7 @@ A simple Java GUI application that implements a login & logout system with a das
 
 ## Dependencies
 
-Jdk 18+
+Jdk 18+ (preferred JDK 20)
 
 ## Contribution
 
